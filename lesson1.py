@@ -16,3 +16,4 @@ schema_df = pd.read_csv('data/survey_results_schema.csv')
 num_rows = 10
 print(schema_df.head(num_rows)) # prints first num_rows rows
 print(schema_df.tail(num_rows)) # prints last num_rows rows
+# test
